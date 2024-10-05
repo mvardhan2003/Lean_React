@@ -7,12 +7,6 @@ import Message from './Message.tsx'
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
     <App />
-    <App />
-    <App />
-    <App />
-    <App />
-    <App />
-    <App />
     <Message />
   </StrictMode>,
 )
